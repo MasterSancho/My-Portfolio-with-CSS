@@ -172,7 +172,7 @@ img {
 }
 
 .jokes img {
-    border-radius: 25%;
+    border-radius: 20%;
     height: 75%;
 }
 
@@ -185,7 +185,7 @@ img {
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 200px;
+    height: 150px;
 }
 
 .footer a {
