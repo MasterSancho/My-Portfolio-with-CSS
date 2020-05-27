@@ -8,5 +8,6 @@
         "Udemy",
         "linkedin",
         "whatsapp"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
